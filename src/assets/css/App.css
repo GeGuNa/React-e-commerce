@@ -1,0 +1,15 @@
+body {
+margin:0;
+padding:0;
+background-color: #edebeb;
+font-size:16px;
+font-weight:500;
+}
+
+* {
+box-sizing:border-box;
+}
+
+a {
+text-decoration: none;
+}

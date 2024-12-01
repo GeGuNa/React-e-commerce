@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
-
-export function Kmain(){ 
+ 
+export function Main(){ 
 	return (<>
 	
 	<Link to="/ind2">ind2 </Link>
@@ -12,11 +12,3 @@ export function Kmain(){
 }
 
 
-
-export function Kmain2(){ 
-	return (<>
-	
-		<br/>	Kmain2 <br/>
-	<Link to="/"> Home </Link>
-	</>)
-}
