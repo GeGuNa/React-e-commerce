@@ -1,9 +1,17 @@
+@font-face {
+font-family: 'Poppins';
+src: url("../fonts/Noto_Sans_Georgian,Poppins/Poppins/Poppins-Regular.ttf");
+}
+
+
 body {
 margin:0;
 padding:0;
 background-color: #edebeb;
 font-size:16px;
 font-weight:500;
+font-family: 'Poppins';
+    overflow-x: hidden;
 }
 
 * {
@@ -12,4 +20,135 @@ box-sizing:border-box;
 
 a {
 text-decoration: none;
+}
+
+
+.header {
+background-color: #256956;
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+height: 60px;
+align-content: center;
+align-items: center;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.First_LineH {
+background-color: #4f8979;
+display: flex;
+flex-wrap: nowrap;
+justify-content: space-between;
+height: 30px;
+align-content: center;
+align-items: center;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.Second_LineH {
+background-color: #4f8979;
+display: flex;
+flex-wrap: nowrap;
+justify-content: center;
+height: 30px;
+align-content: center;
+align-items: center;
+padding-left: 10px;
+padding-right: 10px;
+}
+
+.HeaderLink a { 
+display:flex;
+alig-items:center;
+gap:6px;
+}
+
+
+.Acolor {
+color: #000 !important;
+}
+
+
+.HeaderLink {
+gap:15px;
+display:flex;
+flex-wrap:nowrap;
+}
+
+.HeaderLink a {
+color:#fff !important;
+}
+
+
+.SRoundeDDivs_mnmm {
+	margin-top:15px;
+}
+
+
+.SRoundeDDivs {
+    gap: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 80%;
+    margin: auto;
+    justify-content: center;
+}
+
+.SRoundeDDivs a {
+    font-weight: 500;
+    color: #000 !important;
+    border-radius: 19px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 105px;
+    height: 40px;
+    border: 1px solid #cccccc;
+}
+
+
+.SRoundeDDivs a.active {
+border: 1px solid #000 !important;
+}
+
+
+.Title {
+	display:flex;
+	justify-content:center;
+    font-weight: 600;
+    margin-bottom: 9px;
+    font-size: 20px;
+}
+
+
+.PProducts {
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 25px;
+display: flex;
+flex-wrap: nowrap;
+width: 100%;
+gap: 16px;
+overflow: hidden;
+}
+
+.PProducts > div  {
+width:250px;
+}
+
+.PProducts > div img {
+width:250px;
+height:250px;
+object-fit:cover;
+}
+
+.PProducts > div a {  color: #000 !important; }
+.PProducts > div div.bl {  color: #000 !important; font-weight:600 !important;}
+
+
+
+.PRod11 { 
+
 }
