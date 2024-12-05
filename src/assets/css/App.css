@@ -313,9 +313,16 @@ width:20%;
 
 .NWE115 {
     margin-top: 50px;
+    
+    margin-bottom: 30px;
+
 }
 
-
+.McatPics {
+width:250px;
+height:150px;
+object-fit:cover;
+}
 
 .gap_151 {
 padding: 0 10px;
@@ -337,3 +344,68 @@ border-radius: 15px;
 text-align: center;
     display: block;
 }
+
+
+.rg1ap {
+row-gap:10px;
+}
+
+.MainHS1 {
+		display:block;
+    margin: auto;
+    width: 95%;  
+}
+
+.Maincsatcategory:hover {
+opacity:0.5;
+}
+
+.Maincsatcategory {
+ 
+   /*     background-color: #000;
+        opacity: .1;
+        transition: opacity 0.6s cubic-bezier(0, 0, 0.44, 1.18);*/
+        
+  /*     position: relative;
+    background-color: #9f9393;
+    background-image: radial-gradient(95.56% 95.56% at 50% 50%, #fff 0, #41709f 100%);
+    border-radius: 50%; 
+        */
+       
+       
+    margin: auto;
+    width: 98%;       
+        
+align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    background-color: #fff;
+    border-radius: 20px;
+    padding-top: 22px;
+    padding-bottom: 20px;
+    row-gap: 10px;
+    }
+
+.pZindexingObjects {
+position:absolute;
+top: 45%;
+z-index:20;
+}
+
+ .pZindexingObjects a {
+	background-color: #1d5f6f;
+	color: #fff ! IMPORTANT;
+	    padding: 2px 4px;
+    border-radius: 10px;
+ }
+
+.n_img1 {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+}
+
+
+.h21 {     text-align: center;  margin-bottom: 12px; }

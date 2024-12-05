@@ -5,7 +5,15 @@ export function Main(){
 
 
 
-
+const Main_category = [
+	{ id: 1, name: "PC Fans", price: "$10", pics: '/cats/ZSo7H5sfNrb4MKx8PxmddZ-1200-80.jpg' },
+	{ id: 2, name: "PC RAM", price: "$15", pics: '/cats/download (2).jpeg' },
+	{ id: 3, name: "Motherboards", price: "$20", pics: '/cats/asus-z790-dark-hero-lga1700-motherboard.webp' },
+	{ id: 4, name: "PC disk drives", price: "$20", pics: '/cats/images (1).jpeg' },
+	{ id: 5, name: "Headphones", price: "$20", pics: '/cats/4hU7T5fQYWbnU5vxHZnAZE.jpg' },
+	{ id: 6, name: "Power supply", price: "$20", pics: '/cats/images (3).jpeg' },
+	
+];
 
 
 
@@ -114,6 +122,7 @@ const LatestCats = [
 	
 	
 	
+	
 	<div className="header">
 	
 		<div> 
@@ -131,6 +140,65 @@ const LatestCats = [
 		
 		
 	</div>
+	
+	
+	
+	
+	
+	
+	<div className="MainHS1">
+	
+<div className="NWE115">
+
+<h2 style={{textAlign:'center'}} className="h21">Categories to explore</h2>
+
+<div className="row rg1ap">
+
+
+{/*
+	
+	
+		{ id: 1, name: "Marketing", price: "$10" },
+	*/}
+
+{Main_category.map((data, key)=> (<>
+	<div key={key} className="col-6 col-md-4 col-lg-2">
+
+		<div className="Maincsatcategory">
+			
+			<div>
+				<img className="n_img1" src="/cats/download.jpeg" alt=""/>
+			</div>
+			
+			<div className="pZindexingObjects">
+				<Link to="/">{data.name}</Link>
+			</div>
+		</div>
+
+	</div>
+
+</>))}
+
+</div>
+
+</div>	
+	
+	</div>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	<div className="SRoundeDDivs_mnmm">
