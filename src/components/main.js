@@ -142,7 +142,10 @@ const LatestCats = [
 	</div>
 	
 	
+	<div>
 	
+		<img className="mp_pic1" alt="" src="/shop/blake-wisz-Xn5FbEM9564-unsplash.jpg"/>
+	</div>
 	
 	
 	
