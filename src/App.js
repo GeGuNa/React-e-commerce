@@ -10,6 +10,12 @@ export default function App() {
 		<Route index path="/" element={<Main />}/>
 		<Route path="/categories" element={<Category />}/>
 		<Route path="/login" element={<Login />}/>
+		<Route path="/register" element={<Register />}/>
+		<Route path="/basket" element={<Basket />}/>
+		<Route path="/buy" element={<Buy />}/>
+		<Route path="/contact" element={<Contact />}/>
+		<Route path="/about" element={<About_us />}/>
+		<Route path="/product/:id" element={<Product_us />}/>
     </Routes>
   </>);
 }
