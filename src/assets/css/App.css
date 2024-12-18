@@ -416,3 +416,138 @@ z-index:20;
     height: 339px;
     object-fit: cover;
 }
+
+
+
+/* General styles for the container */
+.responsive-container {
+    display: flex;
+    flex-wrap: wrap; /* Allows items to wrap on smaller screens */
+    gap: 10px; /* Space between items */
+    margin: 0 auto;
+    max-width: 1200px; /* Restrict width on larger screens */
+}
+
+/* Styles for individual items */
+.responsive-container .item {
+    flex: 1 1 calc(33.33% - 20px); /* 3 items per row, accounting for the gap */
+    background-color: #f0f0f0;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box; /* Ensure padding doesn't affect size */
+    border: 1px solid #ddd;
+}
+
+/* Responsive adjustments for tablets (768px and below) */
+@media (max-width: 768px) {
+    .responsive-container .item {
+        flex: 1 1 calc(50% - 20px); /* 2 items per row */
+    }
+}
+
+/* Responsive adjustments for mobile phones (480px and below) */
+@media (max-width: 480px) {
+    .responsive-container .item {
+        flex: 1 1 calc(100% - 20px); /* 1 item per row */
+    }
+}
+
+
+.main_cntr {
+padding-left:10px;
+padding-right:10px;
+}
+
+
+.mh_1q {
+padding:10px;
+background:#000;
+color:#fff;
+display:flex;
+justify-content:space-between;
+}
+
+.mn1_hdrflx1 {
+display:flex;
+gap:15px;
+align-items:center;
+}
+
+
+.mn1_hdrflx1 > div {
+display:flex;
+align-items:center;
+gap:6px;
+}
+
+
+.forrightSide {
+display: flex;
+gap: 6px;
+align-items: center;
+height: 100%;
+}
+
+.f_1p13 { padding-top: 35px;  background: #fff;} 
+
+.fr_line2 {
+  background:#fff !important;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  height: 30px;
+  align-content: center;
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 35px;
+  color:#000;
+  flex:1;
+  gap: 20px;
+}
+
+.wi2180px { 
+width:100%;
+}
+
+.wi280px {
+width:280px;
+}
+
+.fltext1 {
+	width: 90%;
+	display: block;
+	text-align: center;
+	margin: auto;
+	padding: 0;
+}
+
+.fntMS123 {font-weight:bolder;font-size:20px;}
+
+a.hdrbtns { color: #fff !important;} 
+
+.hdrbtns {
+	background: #1d5f6f;
+	padding: 10px 10px;
+	border-radius: 10px;
+	color: #fff;
+}
+
+.hdrlfex1 {
+display: flex;gap: 7px;flex-wrap: nowrap;
+}
+
+.flx1_horizCatlinks{ 
+padding: 26px 20px 20px 10px;
+display:flex;
+overflow:hidden;
+gap:10px;
+background:#fff !important;
+margin-bottom: 20px;
+}
+
+.flx1_horizCatlinks >a { 
+
+color: #000 !important;
+font-weight: bold;
+ }
