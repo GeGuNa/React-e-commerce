@@ -495,15 +495,15 @@ height: 100%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-between;
-  height: 30px;
   align-content: center;
   align-items: center;
   padding-left: 10px;
   padding-right: 10px;
-  padding-bottom: 35px;
+
   color:#000;
   flex:1;
   gap: 20px;
+  padding-top:15px;
 }
 
 .wi2180px { 
@@ -517,9 +517,9 @@ width:280px;
 .fltext1 {
 	width: 90%;
 	display: block;
-	text-align: center;
 	margin: auto;
-	padding: 0;
+	padding: 5px 10px 0 10px;
+	height: 40px;
 }
 
 .fntMS123 {font-weight:bolder;font-size:20px;}
@@ -537,7 +537,7 @@ a.hdrbtns { color: #fff !important;}
 display: flex;gap: 7px;flex-wrap: nowrap;
 }
 
-.flx1_horizCatlinks{ 
+.flx1_horizCatlinks { 
 padding: 26px 20px 20px 10px;
 display:flex;
 overflow:hidden;
@@ -548,6 +548,9 @@ margin-bottom: 20px;
 
 .flx1_horizCatlinks >a { 
 
-color: #000 !important;
-font-weight: bold;
- }
+	color: #000 !important;
+	font-weight: bold;
+	background:#f0f0f0 !important;
+	padding:6px 7px;
+	border-radius:10px;
+}

@@ -133,13 +133,6 @@ const LatestCats = [
 	
 	
 	
-	
-	<div class="main_cntr">
-	
-	<div class="f_1p13"></div>
-	
-	
-	
 	{/* */}
 	
 	
@@ -155,7 +148,7 @@ const LatestCats = [
 	
 		<div class="wi2180px"> 
 			<div>
-				<textarea class="fltext1" style={{resize:'none'}}></textarea>
+				<textarea placeholder="Search" class="fltext1" style={{resize:'none'}}></textarea>
 			</div>
 		</div>
 		
@@ -182,17 +175,31 @@ const LatestCats = [
 	</div>	
 	
 	
+	
+				<div class="flx1_horizCatlinks"> 
+					<Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link>
+				</div>	
+	
+	
 		
 	
 	
 	
 	{/* */}
 	
-
 	
-				<div class="flx1_horizCatlinks"> 
-					<Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link><Link to="/" className="Acolor">wwqeqw</Link>
-				</div>
+	
+	
+	<div class="main_cntr">
+	
+
+{/*	<div class="f_1p13"></div>*/ }
+	
+	
+	
+	
+
+
 
 	
 
