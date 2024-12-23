@@ -1,10 +1,13 @@
 import React from 'react';
+import Container from './Container.js' 
+
 
 export function Category() {
 return (<>
 
-
-categories
+<Container>
+		categories
+</Container>
 
 </>)
 }
