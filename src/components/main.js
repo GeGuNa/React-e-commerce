@@ -86,6 +86,51 @@ const LatestCats = [
 
 
 
+	<div class="flx_1qq1">
+	
+		<div> 
+			<div class="flx_1qqdiv">
+				<div class="pLinkBold"> Free Delivery </div>
+				<div class="pLinkRegular"> Orders from all items	 </div>
+			</div>
+		
+		 </div>
+		 
+		 
+	
+		<div> 
+			<div class="flx_1qqdiv">
+				<div class="pLinkBold"> Return & Refund </div>
+				<div class="pLinkRegular"> Orders from all items	 </div>
+			</div>
+		
+		 </div>
+		 
+		 
+		 
+		 		<div> 
+			<div class="flx_1qqdiv">
+				<div class="pLinkBold"> Member Discount </div>
+				<div class="pLinkRegular"> Orders from all items	 </div>
+			</div>
+		
+		 </div>
+		 
+		 
+		 
+		 		<div> 
+			<div class="flx_1qqdiv">
+				<div class="pLinkBold"> Support 24/7/365 </div>
+				<div class="pLinkRegular"> Orders from all items	 </div>
+			</div>
+		
+		 </div>
+		 
+		
+		
+	</div>
+	
+	
 	
 
 	
@@ -127,7 +172,11 @@ const LatestCats = [
 	
 <div className="NWE115">
 
-<h2 style={{textAlign:'center'}} className="h21">Categories to explore</h2>
+<h2 style={{textAlign:'center'}} className="h21">
+
+	<div class="">Categories to explore</div>
+	
+	</h2>
 
 <div className="row rg1ap">
 
@@ -146,9 +195,14 @@ const LatestCats = [
 			<div>
 				<img className="n_img1" src="/cats/download.jpeg" alt=""/>
 			</div>
-			
+			{/*
 			<div className="pZindexingObjects">
 				<Link to="/">{data.name}</Link>
+			</div>*/}
+			
+			<div className="">
+				<Link to="/" class="pcnt125">{data.name}</Link>
+				<p class="pcnt12">6 products</p>
 			</div>
 		</div>
 
@@ -223,7 +277,7 @@ const LatestCats = [
 <div className="NWE115">
 
 
-<h4 className="phtc">The best products</h4>
+<h4 className="pcntermx1">The best products</h4>
 
 <div className="row gap_151">
 
@@ -234,9 +288,14 @@ const LatestCats = [
 
 <div className="p12G12">
 
-<img alt="" src="/icons/Headphone_1x._SY116_CB566164844_.jpg"/>
-<Link to="/"> Headphones </Link>
+<div class="flx_11q">
+	<img alt="" src="/icons/Headphone_1x._SY116_CB566164844_.jpg"/>
+	<Link to="/" class="pcnt125"> Headphones </Link>
+	<div>15 reviews</div>
+</div>
 
+
+<div>$15</div>
 </div>
 
 
@@ -248,9 +307,6 @@ const LatestCats = [
 
 
 </div>	
-	
-	
-	
 	
 	
 	

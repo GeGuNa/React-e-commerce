@@ -1,0 +1,44 @@
+.pcntermx1 {
+font-family:CostarBrownRegular;
+}
+
+
+.bg100 {
+    background-color: #f3f4f6;
+}
+
+
+.flx_1qq1 {
+margin:auto;
+display:flex;
+width:90%;
+overflow:hidden;
+gap:15px;
+flex-wrap:nowrap;
+margin-bottom:20px;
+
+}
+
+
+.flx_1qq1 > div {
+width:25%;
+overflow:hidden;
+}
+
+
+.flx_1qqdiv {
+width:90%;
+overflow:hidden;
+background-color: #f3f4f6;
+padding:15px 10px;
+}
+
+
+.pLinkBold {
+font-family:CostarBrownRegular;
+}
+
+
+.pLinkRegular {
+font-family:CostarBrownLight;
+}
