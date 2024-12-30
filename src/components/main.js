@@ -89,7 +89,7 @@ const LatestCats = [
 	<div class="flx_1qq1">
 	
 		<div> 
-			<div class="flx_1qqdiv">
+			<div class="flx_1qqdiv"><i class="fa fa-3x fa-headset text-primary mb-4"></i>
 				<div class="pLinkBold"> Free Delivery </div>
 				<div class="pLinkRegular"> Orders from all items	 </div>
 			</div>
