@@ -82,11 +82,9 @@ const LatestCats = [
 	
 	<div class="hmImage">
 		<div class="hmTextOverImage">
-					
     			<h1>The best shop ever</h1>
     			<h5>Welcome friend</h5>
     			<button>Fresh Vegetables</button>
-
 		</div>
 	 </div>
 	
