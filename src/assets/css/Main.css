@@ -42,3 +42,36 @@ font-family:CostarBrownRegular;
 .pLinkRegular {
 font-family:CostarBrownLight;
 }
+
+
+.disp_mn_hrd123z {
+display:flex;
+flex-wrap:nowrap;
+overflow:hidden;
+gap:5px;
+}
+
+
+.pallcnterslfc {place-self: center;}
+.mnbckg123 {background-image: src('nafinia-putra-Kwdp-0pok-I-unsplash.jpg');}
+
+
+.hmImage {
+  background-image: url("../images/nafinia-putra-Kwdp-0pok-I-unsplash.jpg");
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.hmTextOverImage {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}

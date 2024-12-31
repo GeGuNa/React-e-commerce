@@ -192,7 +192,7 @@ const LatestCats = [
 	
 	
 	
-<div class="main_cntr">
+<div class="">
 
 	{children}
 
