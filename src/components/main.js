@@ -220,7 +220,7 @@ const LatestCats = [
 	
 {/* */}	
 
-
+{/*
 <div class="responsive-container">
     <div class="item">Item 1</div>
     <div class="item">Item 2</div>
@@ -236,13 +236,186 @@ const LatestCats = [
 	
 	
 	
+<div class="responsive-container">
+    <div class="item">Item 1</div>
+    <div class="item">Item 2</div>
+    <div class="item">Item 3</div>
+    <div class="item">Item 4</div>
+    <div class="item">Item 5</div>
+    <div class="item">Item 6</div>
+    <div class="item">Item 7</div>
+    <div class="item">Item 8</div>
+    <div class="item">Item 9</div>
+    <div class="item">Item 10</div>
+</div>
+	*/}
 	
 {/**/}
 	
 	
+<div class="mrtop_1q">
+
+<div class="responsivecontainerFR">
+
+
+    <div class="items">
+			<div> Build your own pc </div>
+			<div class="responsivecontainerFRChild">
+			
+				<div class="items">
+					<div><img src="/main_pics/case.jpeg"/> </div>
+					<div>Case</div>
+				</div>
+				
+				<div class="items">
+					<div><img src="/main_pics/Motherboard.jpeg"/> </div>
+					<div>Motherboards</div>
+				</div>
+				
+				<div class="items">
+					<div><img src="/main_pics/disk.jpeg"/> </div>
+					<div>Disk drive</div>
+				</div>
+				
+				<div class="items">
+					<div><img src="/main_pics/Gpu.jpeg"/> </div>
+					<div>Graphics card</div>
+				</div>
+				
+			</div>
+    </div>
+    
+    
+    <div class="items">
+			<div>Home stuff</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">Item 1</div>
+				<div class="items">Item 2</div>
+				<div class="items">Item 3</div>
+				<div class="items">Item 4</div>
+			</div>
+    </div>
+    
+    
+        <div class="items">
+			<div>Kitchen</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">Item 1</div>
+				<div class="items">Item 2</div>
+				<div class="items">Item 3</div>
+				<div class="items">Item 4</div>
+			</div>
+    </div>
+    
+    <div class="items">
+			<div>For boys</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">Item 1</div>
+				<div class="items">Item 2</div>
+				<div class="items">Item 3</div>
+				<div class="items">Item 4</div>
+			</div>
+    </div>
+    
+        <div class="items">
+			<div>For girls</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">
+					<div><img src="/main_pics/skin.jpeg"/> </div>
+					<div>Skincare</div>
+				</div>
+				
+				<div class="items">
+					<div><img src="/main_pics/makeup.jpeg"/> </div>
+					<div>Makeup</div>
+				</div>
+
+				<div class="items">
+					<div><img src="/main_pics/nails.jpeg"/> </div>
+					<div>Nails</div>
+				</div>
+				
+				<div class="items">
+					<div><img src="/main_pics/Fragrances.jpeg"/> </div>
+					<div>Fragrances</div>
+				</div>
+				
+				
+				
+			</div>
+    </div>
+    
+        <div class="items">
+			<div>Presents</div>
+			<div class="responsivecontainerFRChild">
+			
+				<div class="items">
+					<div><img src="/main_pics/mirror.jpg"/> </div>
+					<div>Mirror</div>
+				</div>
+				<div class="items">
+					<div><img src="/main_pics/brushes.jpg"/> </div>
+					<div>Brushes</div>
+				</div>
+				
+								<div class="items">
+					<div><img src="/main_pics/mirror.jpg"/> </div>
+					<div>Mirror</div>
+				</div>
+				
+				
+								<div class="items">
+					<div><img src="/main_pics/mirror.jpg"/> </div>
+					<div>Mirror</div>
+				</div>
+			</div>
+    </div>
+    
+    
+    
+      <div class="items">
+			<div>For boys</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">Item 1</div>
+				<div class="items">Item 2</div>
+				<div class="items">Item 3</div>
+				<div class="items">Item 4</div>
+			</div>
+    </div>
+    
+    
+    
+        <div class="items">
+			<div>For boys</div>
+			<div class="responsivecontainerFRChild">
+				<div class="items">Item 1</div>
+				<div class="items">Item 2</div>
+				<div class="items">Item 3</div>
+				<div class="items">Item 4</div>
+			</div>
+    </div>  
+    
+    
+         <div class="items">
+			<div>Toys for children</div>
+				<div class="responsivecontainerFRChildRendsChildren">
+					<div class="items"><div><img src="/main_pics/toy1.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy2.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy3.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy4.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy5.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy6.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy7.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy8.jpeg"/> </div></div>
+				</div>
+		</div>  
+       
+    
+    
+    
+</div>
 	
-	
-	
+	</div>
 	
 	
 	
@@ -279,11 +452,9 @@ const LatestCats = [
 				<Link to="/">{data.name}</Link>
 			</div>*/}
 			
-			<div className="">
-				<Link to="/" class="pcnt125">{data.name}</Link>
-				<p class="pcnt12">6 products</p>
-			</div>
 		</div>
+		
+		<Link to="/" class="pcnt125">{data.name}</Link>
 
 	</div>
 
