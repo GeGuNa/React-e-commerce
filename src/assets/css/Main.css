@@ -299,6 +299,13 @@ margin-top:25px;
 }
 
 
+@media (min-width: 769px) and (max-width:999px){
+    .responsivecontainerFR > .items {
+        flex-basis: calc(35% - 20px);
+    }
+}
+
+
 
 .responsivecontainerFRChild {
     display: flex;

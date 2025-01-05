@@ -259,7 +259,7 @@ const LatestCats = [
 
 
     <div class="items">
-			<div> Build your own pc </div>
+			<div class="h3"> Build your own pc </div>
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
@@ -287,7 +287,7 @@ const LatestCats = [
     
     
     <div class="items">
-			<div>Home stuff</div>
+			<div class="h3">Home stuff</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">Item 1</div>
 				<div class="items">Item 2</div>
@@ -298,7 +298,7 @@ const LatestCats = [
     
     
         <div class="items">
-			<div>Kitchen</div>
+			<div class="h3">Kitchen</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">Item 1</div>
 				<div class="items">Item 2</div>
@@ -308,7 +308,7 @@ const LatestCats = [
     </div>
     
     <div class="items">
-			<div>For boys</div>
+			<div class="h3">For boys</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">Item 1</div>
 				<div class="items">Item 2</div>
@@ -318,7 +318,7 @@ const LatestCats = [
     </div>
     
         <div class="items">
-			<div>For girls</div>
+			<div class="h3">For girls</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">
 					<div><img src="/main_pics/skin.jpeg"/> </div>
@@ -346,7 +346,7 @@ const LatestCats = [
     </div>
     
         <div class="items">
-			<div>Presents</div>
+			<div class="h3">Presents</div>
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
@@ -374,7 +374,7 @@ const LatestCats = [
     
     
       <div class="items">
-			<div>For boys</div>
+			<div class="h3">For boys</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">Item 1</div>
 				<div class="items">Item 2</div>
@@ -386,7 +386,7 @@ const LatestCats = [
     
     
         <div class="items">
-			<div>For boys</div>
+			<div class="h3">For boys</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">Item 1</div>
 				<div class="items">Item 2</div>
@@ -397,7 +397,7 @@ const LatestCats = [
     
     
          <div class="items">
-			<div>Toys for children</div>
+			<div class="h3">Toys for children</div>
 				<div class="responsivecontainerFRChildRendsChildren">
 					<div class="items"><div><img src="/main_pics/toy1.jpeg"/> </div></div>
 					<div class="items"><div><img src="/main_pics/toy2.jpeg"/> </div></div>
