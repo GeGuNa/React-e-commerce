@@ -5,12 +5,13 @@ src: url("../fonts/Noto_Sans_Georgian,Poppins/Poppins/Poppins-Regular.ttf");
 
 :root {
 --main-clr: #1d5f6f;
+--bckgclr: #d7d7d7;
 }
 
 body {
 margin:0;
 padding:0;
-background-color: #edebeb !important;
+background-color: var(--bckgclr) !important;
 font-size:16px;
 font-weight:500;
 font-family: 'Poppins';

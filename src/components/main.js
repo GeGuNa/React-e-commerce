@@ -90,6 +90,7 @@ const LatestCats = [
 	
 	
 
+<div class="MN_dets1">
 
 
 	<div class="flx_1qq1">
@@ -208,7 +209,7 @@ const LatestCats = [
 		
 	</div>
 	
-	
+</div>	
 	
 
 	
