@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
 import Container from './Container.js' 
-
  
 export function Main(){ 
 
@@ -83,8 +82,8 @@ const LatestCats = [
 	<div class="hmImage">
 		<div class="hmTextOverImage">
     			<h1>The best shop ever</h1>
-    			<h5>Welcome friend</h5>
-    			<button>Fresh Vegetables</button>
+    			<h5>Save up to 50%</h5>
+    			<button class="btnprimary">Discover more</button>
 		</div>
 	 </div>
 	

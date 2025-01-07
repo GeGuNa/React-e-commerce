@@ -57,7 +57,7 @@ gap:5px;
 
 
 .hmImage {
-  background-image: url("../images/nafinia-putra-Kwdp-0pok-I-unsplash.jpg");
+  background-image: url("../icons/cat-banner-1.jpg");
   background-color: #cccccc;
   height: 500px;
   background-position: center;
@@ -363,3 +363,175 @@ height:150px;
 object-fit:cover;
 }
 /************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.social {
+	overflow: hidden
+}
+.social a {
+	color: #fff !important;
+	width: 40px;
+	height: 40px;
+	line-height: 40px;
+    border-radius: 999px;
+	margin-bottom:10px
+}
+.social a:hover {
+	color: #fff !important;
+}
+.social .fb a:before {
+	content: "\f09a";
+	font-family: FontAwesome;
+}
+.social .fb a {
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #3C5B9B !important;
+}
+.social .tw a:before {
+	content: "\f099";
+	font-family: FontAwesome;
+}
+.social .tw a {
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #359BED !important;
+}
+.social .googleplus a:before {
+	content: "\f0d5";
+	font-family: FontAwesome;
+}
+.social .googleplus a {
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #E33729!important;
+}
+.social .rss a:before {
+	content: "\f09e";
+	font-family: FontAwesome;
+}
+.social .rss a {
+	content: "\f09e";
+	font-family: FontAwesome;
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #FD9F13 !important;
+}
+.social .pintrest a:before {
+	content: "\f0d3";
+	font-family: FontAwesome;
+}
+.social .pintrest a {
+	content: "\f0d3";
+	font-family: FontAwesome;
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #cb2027 !important;
+}
+.social .linkedin a:before {
+	content: "\f0e1";
+	font-family: FontAwesome;
+}
+.social .linkedin a {
+	content: "\f0e1";
+	font-family: FontAwesome;
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #027ba5 !important;
+}
+.social .youtube a:before {
+	content: "\f167";
+	font-family: FontAwesome;
+}
+.social .youtube a {
+	font-size: 16px;
+	display: inline-block!important;
+	text-align: center;
+	padding: 0;
+	background: #F03434 !important;
+}
+.social h4 {
+	margin: 25px 0 0px 0px;
+}
+.social ul {
+	margin: 0;
+	list-style: none;
+}
+.social ul li {
+	margin-right: 7px;
+	display:inline-block
+}
+.social ul li {
+	border-bottom: none;
+}
+.social a {
+	transition: background 400ms ease-in-out;
+	-webkit-transition: background 400ms ease-in-out;
+	-moz-transition: background 400ms ease-in-out;
+	-o-transition: background 400ms ease-in-out;
+}
+
+
+.footer2 {
+    background: #fff;
+    padding: 35px 0px;
+    text-align: center;
+}
+
+
+
+.btnprimary {
+    -webkit-transition: all linear 0.2s;
+    -moz-transition: all linear 0.2s;
+    -ms-transition: all linear 0.2s;
+    -o-transition: all linear 0.2s;
+    transition: all linear 0.2s;
+    background: #ed4053;
+    color: #fff;
+    font-size: 13px;
+    line-height: 22px;
+    padding: 8px 14px 6px 14px;
+    font-family: 'Barlow', sans-serif;
+    border-radius: 4px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+	border:0;
+	border: none;
+}
