@@ -485,14 +485,14 @@ const LatestCats = [
 	
 	<div className="Title">All for you</div>
 	
-<div className="SRoundeDDivs">
-	<Link to="/" className="active">Saved </Link>	
-	<Link to="/">Motors</Link>	
-	<Link to="/">Fashion</Link>	
-	<Link to="/">Sports</Link>	
-	<Link to="/">Phones</Link>	
-	<Link to="/">Explore</Link>	
-</div>	
+		<div className="SRoundeDDivs">
+			<Link to="/" className="active">Saved </Link>	
+			<Link to="/">Motors</Link>	
+			<Link to="/">Fashion</Link>	
+			<Link to="/">Sports</Link>	
+			<Link to="/">Phones</Link>	
+			<Link to="/">Explore</Link>	
+		</div>	
 
 		
 
@@ -658,7 +658,29 @@ const LatestCats = [
 	</div>	
 		
 			
+	<div class="NewsLetterContainer">
 	
+	
+		<div class="NewsLetter">
+
+
+			<h4>Subcribe To Our Newsletter</h4>
+			
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua .</p>
+
+			<div class="newsSLetter1_abs1">
+				<input type="text" placeholder="Enter your email" /> 
+				
+				<div class="newsSLetter1_abs12">
+					<button class="">Subscribe</button>
+				</div>
+				
+			</div>
+
+		</div>	
+		
+	</div>	
+
 	
 </Container>
 	

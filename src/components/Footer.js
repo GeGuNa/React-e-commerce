@@ -13,7 +13,7 @@ return (<>
   
         <div class="footer_1">
 			
-			<div class="Container">
+			<div class="Container ContainerAdditions">
 				
 				<div class="Row">
 			

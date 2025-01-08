@@ -112,12 +112,13 @@ gap:5px;
 
 nav#nav h4 {
 border-bottom: 1px solid #e0e0e0;
-font-size: 16px;
+font-size: 20px;
 font-weight: 700;
 padding-bottom: 10px;
 text-transform: uppercase;
 display: block;
 width: 95%;
+color: #000 !important;
 }		
 			
 		a {text-decoration:none; }	
@@ -510,24 +511,19 @@ object-fit:cover;
 
 .footer2 {
     background: #fff;
-    padding: 35px 0px;
+    padding: 15px 0px;
     text-align: center;
 }
 
 
 
 .btnprimary {
-    -webkit-transition: all linear 0.2s;
-    -moz-transition: all linear 0.2s;
-    -ms-transition: all linear 0.2s;
-    -o-transition: all linear 0.2s;
-    transition: all linear 0.2s;
     background: #ed4053;
     color: #fff;
     font-size: 13px;
     line-height: 22px;
     padding: 8px 14px 6px 14px;
-    font-family: 'Barlow', sans-serif;
+    font-family: sans-serif;
     border-radius: 4px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -535,3 +531,98 @@ object-fit:cover;
 	border:0;
 	border: none;
 }
+
+
+
+
+.NewsLetterContainer {
+display: flex;
+width: 100%;
+background: #fff;
+padding: 50px 10px;
+margin-top: 35px;
+}
+
+.NewsLetter {
+	display:flex;
+	max-width:40%;
+	margin:auto;
+	justify-content:space-between;
+	flex-direction:column;
+	row-gap: 10px;
+}
+
+.NewsLetter > * {
+	align-self:center;
+}
+
+
+
+.NewsLetter input[type="text"] {
+    color: #000000 !important;
+    padding: 10px;
+    background-color: rgb(80 80 80 / 10%);
+    border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+.NewsLetter input[type="text"]:focus {
+border:0;
+outline:0;
+border: 2px solid rgba(255, 255, 255, 0.3);
+padding: 10px;
+}
+
+
+.NewsLetter h4 {
+	color: #000;
+	font-weight: 600;
+}
+
+
+
+.ContainerAdditions {
+margin:0;
+margin:unset;
+padding: 20px;
+}
+
+
+.NewsLetter p {
+    text-align: center;
+}
+
+
+.newsSLetter1_abs1 {
+	display:flex;
+	position:relative;
+	width:100%;
+}
+
+.newsSLetter1_abs1 input {
+width:100%;
+}
+
+
+.newsSLetter1_abs12 {
+	position:absolute;
+	z-index:999;
+	right:0;
+	top: 3px;
+}
+
+
+.newsSLetter1_abs12 button {
+    background: #ed4053;
+    color: #fff;
+    font-size: 13px;
+    line-height: 22px;
+    padding: 10px;
+    font-family: sans-serif;
+    border-radius: 4px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: 0;
+    border: none;
+}
+

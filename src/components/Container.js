@@ -199,6 +199,9 @@ const LatestCats = [
 </div>	
 
 
+
+	{/* 
+	
 <div className="NWE115">
 		
 				<div className="row">
@@ -221,7 +224,8 @@ const LatestCats = [
 		
 		</div>
 		
-		
+	 */}
+			
 		
 		
 		
