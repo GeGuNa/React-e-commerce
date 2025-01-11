@@ -737,32 +737,17 @@ const LatestCats = [
 
     
         <div class="items">
-			<div class="hS4">For girls</div>
-			<div class="responsivecontainerFRChild">
-				<div class="items">
-					<div><img alt="Title"src="/main_pics/skin.jpeg"/> </div>
-					<div>Skincare</div>
-				</div>
-				
-				<div class="items">
-					<div><img alt="Title"src="/main_pics/makeup.jpeg"/> </div>
-					<div>Makeup</div>
-				</div>
+			<div class="hS4">Shorts for women</div>
 
-				<div class="items">
-					<div><img alt="Title"src="/main_pics/nails.jpeg"/> </div>
-					<div>Nails</div>
+			<div class="responsivecontainerFRChild">
+			
+				<div class="FullSizedItems">
+					<div><img alt="Title"src="/main_pics/41y5OW+J1jL.png"/> </div>
 				</div>
 				
-				<div class="items">
-					<div><img alt="Title"src="/main_pics/Fragrances.jpeg"/> </div>
-					<div>Fragrances</div>
-				</div>
-				
-				
-				
-			</div>
-    </div>
+			</div>	
+    </div>  
+    
     
     
         <div class="items">
@@ -839,12 +824,6 @@ const LatestCats = [
 				</div>
 				
 			</div>	
-
-
-
-
-
-
     </div>  
     
 
