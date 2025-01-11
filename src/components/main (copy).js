@@ -264,22 +264,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/case.jpeg"/> </div>
+					<div><img src="/main_pics/case.jpeg"/> </div>
 					<div>Case</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/Motherboard.jpeg"/> </div>
+					<div><img src="/main_pics/Motherboard.jpeg"/> </div>
 					<div>Motherboards</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/disk.jpeg"/> </div>
+					<div><img src="/main_pics/disk.jpeg"/> </div>
 					<div>Disk drive</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/Gpu.jpeg"/> </div>
+					<div><img src="/main_pics/Gpu.jpeg"/> </div>
 					<div>Graphics card</div>
 				</div>
 				
@@ -293,22 +293,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 						
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/boys/cyberpet.jpg"/> </div>
+								<div><img src="/main_pics/boys/cyberpet.jpg"/> </div>
 								<div>Iphone</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/boys/herd-mentality-680x444.jpg"/> </div>
+								<div><img src="/main_pics/boys/herd-mentality-680x444.jpg"/> </div>
 								<div>Samsung</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/boys/retroconsoles.jpg"/> </div>
+								<div><img src="/main_pics/boys/retroconsoles.jpg"/> </div>
 								<div>Consoles</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/boys/toys-games-680x44423.jpg"/> </div>
+								<div><img src="/main_pics/boys/toys-games-680x44423.jpg"/> </div>
 								<div>Remote toys</div>
 							</div>
 							
@@ -321,22 +321,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 						
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/most_lphones/iPhone-15-1.webp"/> </div>
+								<div><img src="/main_pics/most_lphones/iPhone-15-1.webp"/> </div>
 								<div>Iphone</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/most_lphones/Samsung-Samartphone-1.webp"/> </div>
+								<div><img src="/main_pics/most_lphones/Samsung-Samartphone-1.webp"/> </div>
 								<div>Samsung</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/most_lphones/XIAOMI-1.webp"/> </div>
+								<div><img src="/main_pics/most_lphones/XIAOMI-1.webp"/> </div>
 								<div>Xiaomi</div>
 							</div>
 							
 							<div class="items">
-								<div><img alt="Title"src="/main_pics/most_lphones/HUAWEI-1.webp"/> </div>
+								<div><img src="/main_pics/most_lphones/HUAWEI-1.webp"/> </div>
 								<div>Huawei</div>
 							</div>
 							
@@ -353,22 +353,22 @@ const LatestCats = [
 	
 	<div class="responsivecontainerFRChild">
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/gadgets/gadgets-speakers-191124.jpg"/> </div>
+					<div><img src="/main_pics/gadgets/gadgets-speakers-191124.jpg"/> </div>
 					<div>Speakers</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/gadgets/gadgets-phone-191124.jpg"/> </div>
+					<div><img src="/main_pics/gadgets/gadgets-phone-191124.jpg"/> </div>
 					<div>Tablet Gadgets</div>
 				</div>
 
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/gadgets/gadgets-gaming-191124.jpg"/> </div>
+					<div><img src="/main_pics/gadgets/gadgets-gaming-191124.jpg"/> </div>
 					<div>Gaming Accessories</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/gadgets/gadgets-home-191124.jpg"/> </div>
+					<div><img src="/main_pics/gadgets/gadgets-home-191124.jpg"/> </div>
 					<div>Home gadgets</div>
 				</div>
 				
@@ -387,22 +387,22 @@ const LatestCats = [
 			<div class="hS4">For girls</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/skin.jpeg"/> </div>
+					<div><img src="/main_pics/skin.jpeg"/> </div>
 					<div>Skincare</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/makeup.jpeg"/> </div>
+					<div><img src="/main_pics/makeup.jpeg"/> </div>
 					<div>Makeup</div>
 				</div>
 
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/nails.jpeg"/> </div>
+					<div><img src="/main_pics/nails.jpeg"/> </div>
 					<div>Nails</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/Fragrances.jpeg"/> </div>
+					<div><img src="/main_pics/Fragrances.jpeg"/> </div>
 					<div>Fragrances</div>
 				</div>
 				
@@ -417,22 +417,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/brushes.jpg"/> </div>
+					<div><img src="/main_pics/brushes.jpg"/> </div>
 					<div>Brushes</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 			</div>
@@ -446,22 +446,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
 					<div>Collectibles</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
 					<div>Games based on movies</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/print-posters.jpg"/> </div>
+					<div><img src="/main_pics/mgs/print-posters.jpg"/> </div>
 					<div>Prints and posters</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
+					<div><img src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
 					<div>Mugs & Bottles</div>
 				</div>
 			</div>	
@@ -482,22 +482,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
+					<div><img src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
 					<div>Personalised Love Notes</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/engagement/ROSEGLASSES__69705.jpg"/> </div>
+					<div><img src="/main_pics/engagement/ROSEGLASSES__69705.jpg"/> </div>
 					<div>Rose Wine Glass Set</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/engagement/w_1__92806.jpg"/> </div>
+					<div><img src="/main_pics/engagement/w_1__92806.jpg"/> </div>
 					<div>Hand Moulding</div>
 				</div>
 				
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/engagement/74259_img_2__04889.jpg"/> </div>
+					<div><img src="/main_pics/engagement/74259_img_2__04889.jpg"/> </div>
 					<div>Roses</div>
 				</div>
 			</div>	
@@ -513,14 +513,14 @@ const LatestCats = [
          <div class="items">
 			<div class="hS4">Toys for children</div>
 				<div class="responsivecontainerFRChildRendsChildren">
-					<div class="items"><div><img alt="Title"src="/main_pics/toy1.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy2.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy3.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy4.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy5.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy6.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy7.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy8.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy1.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy2.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy3.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy4.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy5.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy6.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy7.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy8.jpeg"/> </div></div>
 				</div>
 		</div>  
 */}       
@@ -540,14 +540,14 @@ const LatestCats = [
          
 			<div class="hS4">Toys for children</div>
 				<div class="LSt_Cats1123">
-					<div class="items"><div><img alt="Title"src="/main_pics/toy1.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy2.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy3.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy4.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy5.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy6.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy7.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy8.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy1.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy2.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy3.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy4.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy5.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy6.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy7.jpeg"/> </div></div>
+					<div class="items"><div><img src="/main_pics/toy8.jpeg"/> </div></div>
 				</div>
 		</div>  
        
@@ -565,7 +565,7 @@ const LatestCats = [
 				
 {new Array(9).fill(7).map((data,key)=> 
 <>
-		<div class="items"><div><img alt="Title"src="/main_pics/102006_w4__84057__40487.jpg"/> </div></div>
+		<div class="items"><div><img src="/main_pics/102006_w4__84057__40487.jpg"/> </div></div>
 </>			
 )}
 				</div>
@@ -596,22 +596,22 @@ const LatestCats = [
 			<div class="hS4">For girls</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/skin.jpeg"/> </div>
+					<div><img src="/main_pics/skin.jpeg"/> </div>
 					<div>Skincare</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/makeup.jpeg"/> </div>
+					<div><img src="/main_pics/makeup.jpeg"/> </div>
 					<div>Makeup</div>
 				</div>
 
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/nails.jpeg"/> </div>
+					<div><img src="/main_pics/nails.jpeg"/> </div>
 					<div>Nails</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/Fragrances.jpeg"/> </div>
+					<div><img src="/main_pics/Fragrances.jpeg"/> </div>
 					<div>Fragrances</div>
 				</div>
 				
@@ -626,22 +626,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/brushes.jpg"/> </div>
+					<div><img src="/main_pics/brushes.jpg"/> </div>
 					<div>Brushes</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 			</div>
@@ -655,22 +655,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
 					<div>Collectibles</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
 					<div>Games based on movies</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/print-posters.jpg"/> </div>
+					<div><img src="/main_pics/mgs/print-posters.jpg"/> </div>
 					<div>Prints and posters</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
+					<div><img src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
 					<div>Mugs & Bottles</div>
 				</div>
 			</div>	
@@ -691,7 +691,7 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="FullSizedItems">
-					<div><img alt="Title"src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
+					<div><img src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
 				</div>
 				
 			</div>	
@@ -740,22 +740,22 @@ const LatestCats = [
 			<div class="hS4">For girls</div>
 			<div class="responsivecontainerFRChild">
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/skin.jpeg"/> </div>
+					<div><img src="/main_pics/skin.jpeg"/> </div>
 					<div>Skincare</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/makeup.jpeg"/> </div>
+					<div><img src="/main_pics/makeup.jpeg"/> </div>
 					<div>Makeup</div>
 				</div>
 
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/nails.jpeg"/> </div>
+					<div><img src="/main_pics/nails.jpeg"/> </div>
 					<div>Nails</div>
 				</div>
 				
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/Fragrances.jpeg"/> </div>
+					<div><img src="/main_pics/Fragrances.jpeg"/> </div>
 					<div>Fragrances</div>
 				</div>
 				
@@ -770,22 +770,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/brushes.jpg"/> </div>
+					<div><img src="/main_pics/brushes.jpg"/> </div>
 					<div>Brushes</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mirror.jpg"/> </div>
+					<div><img src="/main_pics/mirror.jpg"/> </div>
 					<div>Mirror</div>
 				</div>
 			</div>
@@ -799,22 +799,22 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/collectibles-1-.jpg"/> </div>
 					<div>Collectibles</div>
 				</div>
 				<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
+					<div><img src="/main_pics/mgs/games-based-on-movies-.jpg"/> </div>
 					<div>Games based on movies</div>
 				</div>
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/print-posters.jpg"/> </div>
+					<div><img src="/main_pics/mgs/print-posters.jpg"/> </div>
 					<div>Prints and posters</div>
 				</div>
 				
 				
 								<div class="items">
-					<div><img alt="Title"src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
+					<div><img src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
 					<div>Mugs & Bottles</div>
 				</div>
 			</div>	
@@ -835,7 +835,7 @@ const LatestCats = [
 			<div class="responsivecontainerFRChild">
 			
 				<div class="FullSizedItems">
-					<div><img alt="Title"src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
+					<div><img src="/main_pics/engagement/88635_img_2__88434.jpg"/> </div>
 				</div>
 				
 			</div>	
@@ -869,7 +869,7 @@ const LatestCats = [
 				<div class="LSt_Cats1123">
 				
 {new Array(9).fill(7).map((data,key)=> (<>
-		<div class="items"><div><img alt="Title"src="/main_pics/pc/84366_img_0__58555.jpg"/> </div></div>
+		<div class="items"><div><img src="/main_pics/pc/84366_img_0__58555.jpg"/> </div></div>
 </>)
 )}
 				</div>
@@ -879,9 +879,149 @@ const LatestCats = [
 </div>
 
 
+	
+	</div>
+	
+	
+	
+	
+	<div className="MainHS1">
+	
+<div className="NWE115">
+
+<h2 style={{textAlign:'center'}} className="h21">
+
+	<div class="">Categories to explore</div>
+	
+	</h2>
+
+<div className="row rg1ap">
+
+
+{/*
+	
+	
+		{ id: 1, name: "Marketing", price: "$10" },
+	*/}
+
+{Main_category.map((data, key)=> (<>
+	<div key={key} className="col-6 col-md-4 col-lg-2">
+
+		<div className="Maincsatcategory">
+			
+			<div>
+				<img className="n_img1" src="/cats/download.jpeg" alt=""/>
+			</div>
+			{/*
+			<div className="pZindexingObjects">
+				<Link to="/">{data.name}</Link>
+			</div>*/}
+			
+		</div>
+		
+		<Link to="/" class="pcnt125">{data.name}</Link>
+
+	</div>
+
+</>))}
+
+</div>
+
+</div>	
+	
+	</div>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<div className="SRoundeDDivs_mnmm">
+	
+	<div className="Title">All for you</div>
+	
+		<div className="SRoundeDDivs">
+			<Link to="/" className="active">Saved </Link>	
+			<Link to="/">Motors</Link>	
+			<Link to="/">Fashion</Link>	
+			<Link to="/">Sports</Link>	
+			<Link to="/">Phones</Link>	
+			<Link to="/">Explore</Link>	
+		</div>	
+
+		
 
 	
+	</div>
 	
+	
+	
+	
+	
+
+<div className="PProducts">
+
+{Products.map((value,key) => (<>
+
+<div>
+	<div className="pbf">
+		<img alt="" src="/shop/59ed820d-c060-4546-b963-b8fd36619340.webp"/>
+		<Link to="/"> Usb disk drive</Link>
+		<div className="bl">   {value.price}  </div>
+	 </div>
+ </div>
+
+</>))}
+
+</div>	
+	
+	
+	
+	
+<div className="NWE115">
+
+
+<h4 className="pcntermx1">The best products</h4>
+
+<div className="row gap_151">
+
+
+
+{Categories.map((value,index)=> (<>
+<div className="col-sm-4 col-lg-2 col-xl-2">
+
+<div className="p12G12">
+
+<div class="flx_11q">
+	<img alt="" src="/icons/Headphone_1x._SY116_CB566164844_.jpg"/>
+	<Link to="/" class="pcnt125"> Headphones </Link>
+	<div>15 reviews</div>
+</div>
+
+
+<div>$15</div>
+</div>
+
+
+</div>	
+	
+</>))}
+
+</div>
+
+
+</div>	
 	
 	
 	
@@ -894,25 +1034,87 @@ const LatestCats = [
 	
 	
 
+<div className="YmayLike">
+
+
+
+<h4> Additional items to explore </h4>
+
+
+<div className="New_Books">
+
+
+{LatestCats.map((value,key) => (<>
+
+<div className="">
+
+<Link to="/" >
+	<img alt="" src="/icons/books/71IvxSNVoaL._AC_SY200_.jpg" />
+</Link>
+ 
+ 
+ </div>
+
+</>))}
+
+
+
+
+
+</div>
+
+</div>
 	
 	
+	
+	
+	
+	
+	
+<div className="latest_arrivals">	
+	
+<div className="SpaceBetween mr15 alcenter">
+
+	<div><h4>	Discover the latest arrivals </h4> </div>
+
+<div>
+
+<div className="FeaturedFLex">	
+	<Link className="ActiveFeaturedLinks" to="/">All</Link>
+	<Link className="ActiveFeaturedLink" to="/">Used</Link>
+	<Link className="ActiveFeaturedLink" to="/">New</Link>
+	<Link className="ActiveFeaturedLink" to="/">Old</Link>
+</div>
+	
+	
+</div>
+
+
+</div>	
+
+
 
 
 	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	<div className="row gap15">
 
-	
-	
-	
+{LatestCats.map((value,key) => (<>
 
+<div className="col-sm-6 col-lg-4 col-xl-3">
+
+	<div className="item">
+		<div className="Flexing">
+			<img alt="" src={value.pic} />
+			<Link className="item-links" to="/"> {value.name} </Link>
+		</div>
+	</div>
+ 
+ 
+ </div>
+
+</>))}
+
+</div>	
 	
 	
 	
