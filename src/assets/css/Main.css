@@ -703,3 +703,39 @@ width:100%;
 	height: 190px;
 	object-fit: cover;
 }
+
+
+
+
+
+
+@media (min-width: 545px) {
+    .TopSpecializations_cardsWrapper__5ZVIU {
+        display: grid;
+        grid-gap: 10px;
+        gap: 10px;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+    }
+}
+    
+    
+@media (min-width: 769px) {
+    .TopSpecializations_cardsWrapper__5ZVIU {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+/*
+@media (min-width: 769px) {
+    .TopSpecializations_cardsWrapper__5ZVIU {
+        grid-template-columns: repeat(3, 1fr);
+    }
+} 
+*/
+
+@media (min-width: 886px) {
+    .TopSpecializations_cardsWrapper__5ZVIU {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}

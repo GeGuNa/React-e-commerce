@@ -65,6 +65,127 @@ const LatestCats = [
 ];
 
 
+  const toyImages = [
+    "/main_pics/toy1.jpeg",
+    "/main_pics/toy2.jpeg",
+    "/main_pics/toy3.jpeg",
+    "/main_pics/toy4.jpeg",
+    "/main_pics/toy5.jpeg",
+    "/main_pics/toy6.jpeg",
+    "/main_pics/toy7.jpeg",
+    "/main_pics/toy8.jpeg",
+  ];
+
+
+
+
+const categoriesnw = [
+  {
+    title: 'Build your own PC',
+    items: [
+      { img: '/main_pics/case.jpeg', label: 'Case' },
+      { img: '/main_pics/Motherboard.jpeg', label: 'Motherboards' },
+      { img: '/main_pics/disk.jpeg', label: 'Disk drive' },
+      { img: '/main_pics/Gpu.jpeg', label: 'Graphics card' },
+    ],
+  },
+  {
+    title: 'For boys',
+    items: [
+      { img: '/main_pics/boys/cyberpet.jpg', label: 'Iphone' },
+      { img: '/main_pics/boys/herd-mentality-680x444.jpg', label: 'Samsung' },
+      { img: '/main_pics/boys/retroconsoles.jpg', label: 'Consoles' },
+      { img: '/main_pics/boys/toys-games-680x44423.jpg', label: 'Remote toys' },
+    ],
+  },
+  {
+    title: 'Most loved tech',
+    items: [
+      { img: '/main_pics/most_lphones/iPhone-15-1.webp', label: 'Iphone' },
+      { img: '/main_pics/most_lphones/Samsung-Samartphone-1.webp', label: 'Samsung' },
+      { img: '/main_pics/most_lphones/XIAOMI-1.webp', label: 'Xiaomi' },
+      { img: '/main_pics/most_lphones/HUAWEI-1.webp', label: 'Huawei' },
+    ],
+  },
+  {
+    title: 'Gadgets',
+    items: [
+      { img: '/main_pics/gadgets/gadgets-speakers-191124.jpg', label: 'Speakers' },
+      { img: '/main_pics/gadgets/gadgets-phone-191124.jpg', label: 'Tablet Gadgets' },
+      { img: '/main_pics/gadgets/gadgets-gaming-191124.jpg', label: 'Gaming Accessories' },
+      { img: '/main_pics/gadgets/gadgets-home-191124.jpg', label: 'Home gadgets' },
+    ],
+  },
+  {
+    title: 'For girls',
+    items: [
+      { img: '/main_pics/skin.jpeg', label: 'Skincare' },
+      { img: '/main_pics/makeup.jpeg', label: 'Makeup' },
+      { img: '/main_pics/nails.jpeg', label: 'Nails' },
+      { img: '/main_pics/Fragrances.jpeg', label: 'Fragrances' },
+    ],
+  },
+  {
+    title: 'Presents',
+    items: [
+      { img: '/main_pics/mirror.jpg', label: 'Mirror' },
+      { img: '/main_pics/brushes.jpg', label: 'Brushes' },
+      { img: '/main_pics/mirror.jpg', label: 'Mirror' },
+      { img: '/main_pics/mirror.jpg', label: 'Mirror' },
+    ],
+  },
+  {
+    title: 'Movie, TV & Gaming Gifts',
+    items: [
+      { img: '/main_pics/mgs/collectibles-1-.jpg', label: 'Collectibles' },
+      { img: '/main_pics/mgs/games-based-on-movies-.jpg', label: 'Games based on movies' },
+      { img: '/main_pics/mgs/print-posters.jpg', label: 'Prints and posters' },
+      { img: '/main_pics/mgs/tv-mugs-bottles.jpg', label: 'Mugs & Bottles' },
+    ],
+  },
+  {
+    title: 'Engagement Gifts',
+    items: [
+      { img: '/main_pics/engagement/88635_img_2__88434.jpg', label: 'Personalised Love Notes' },
+      { img: '/main_pics/engagement/ROSEGLASSES__69705.jpg', label: 'Rose Wine Glass Set' },
+      { img: '/main_pics/engagement/w_1__92806.jpg', label: 'Hand Moulding' },
+      { img: '/main_pics/engagement/74259_img_2__04889.jpg', label: 'Roses' },
+    ],
+  },
+];
+
+const Category = ({ title, items }) => (
+  <div className="items">
+    <div className="hS4">{title}</div>
+    <div className="responsivecontainerFRChild">
+      {items.map((item, index) => (
+        <div className="items" key={index}>
+          <div><img alt={item.label} src={item.img} /></div>
+          <div>{item.label}</div>
+        </div>
+      ))}
+    </div>
+  </div>
+);
+
+
+
+
+/*
+
+
+
+
+const App = () => {
+  return (
+    <div className="categories-container">
+      {categoriesnw && categoriesnw.map((category, index) => (
+        <Category key={index} title={category.title} items={category.items} />
+      ))}
+    </div>
+  );
+};
+*/
 
 
 
@@ -259,6 +380,14 @@ const LatestCats = [
 <div class="responsivecontainerFR">
 
 
+
+      {categoriesnw && categoriesnw.map((category, index) => (
+        <Category key={index} title={category.title} items={category.items} />
+      ))}
+
+
+
+{/*
     <div class="items">
 			<div class="hS4"> Build your own pc </div>
 			<div class="responsivecontainerFRChild">
@@ -460,7 +589,7 @@ const LatestCats = [
 				</div>
 				
 				
-								<div class="items">
+				<div class="items">
 					<div><img alt="Title"src="/main_pics/mgs/tv-mugs-bottles.jpg"/> </div>
 					<div>Mugs & Bottles</div>
 				</div>
@@ -509,6 +638,8 @@ const LatestCats = [
 
     </div>  
     
+  */}  
+    
 {/*    
          <div class="items">
 			<div class="hS4">Toys for children</div>
@@ -540,14 +671,15 @@ const LatestCats = [
          
 			<div class="hS4">Toys for children</div>
 				<div class="LSt_Cats1123">
-					<div class="items"><div><img alt="Title"src="/main_pics/toy1.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy2.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy3.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy4.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy5.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy6.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy7.jpeg"/> </div></div>
-					<div class="items"><div><img alt="Title"src="/main_pics/toy8.jpeg"/> </div></div>
+				
+				  {toyImages && toyImages.map((src, index) => (
+					<div className="items" key={index}>
+						<div>
+							<img alt={`Toy ${index + 1}`} src={src} />
+						</div>
+					 </div>
+				  ))}	
+				
 				</div>
 		</div>  
        
